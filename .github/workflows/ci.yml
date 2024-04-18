@@ -20,4 +20,4 @@ jobs:
 
       - name: Install npm dependencies
         run: |
-          npm install
+          npm install --verbose
