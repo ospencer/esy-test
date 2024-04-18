@@ -1,0 +1,11 @@
+{
+  "name": "esy-workspace-example",
+  "version": "1.0.0",
+  "workspaces": [
+    "one",
+    "two"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
